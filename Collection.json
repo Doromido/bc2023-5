@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "8d292fd6-52e6-4012-ae66-6a6fc8516559",
+		"name": "Collection.json",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31370528"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8000/euhndsjf",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"euhndsjf"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
